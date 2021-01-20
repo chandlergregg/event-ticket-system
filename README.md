@@ -15,5 +15,5 @@ In order to reproduce the project locally:
 - Clone / download all files in the repo
 - Set up or use an existing MySQL database
 - Edit `ticketing_system.py` with the proper MySQL database settings
-    - User and password are required at the bare minimum, if using a MySQL database on localhost
+    - [User and password](https://github.com/chandlergregg/event-ticket-system/blob/main/ticketing_system.py#L181-L182) are required at the bare minimum, if using a MySQL database on localhost
     - The CSV filename and other details are already set
